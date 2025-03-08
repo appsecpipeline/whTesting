@@ -1,4 +1,4 @@
 # whTesting
 Testing wh and similar things
 
-This will have loads on not-so-amazing data in it.
+This will have loads of not-so-amazing data in it.
